@@ -23,7 +23,7 @@ function Projects() {
           My Recent <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
-         Most of my works are for Backend services which means its not meant to have a User Interface, However, Here are some few projects.
+         Most of my works are related to Backend Services which means it's not meant to have a User Interface, However, Here are some of my projects.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">

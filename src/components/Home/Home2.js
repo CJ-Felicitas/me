@@ -19,11 +19,11 @@ function Home2() {
               <br />
               <br />I usually work around with
            
-                <b className="purple"> Java Spring Boot, Nodejs, Docker, Python, and Laravel. </b>
+                <b className="purple"> Java, Spring Boot, Nodejs, Docker, Python, and Laravel. </b>
             
               <br />
               <br />
-              My field of Interest's are exploring and open source technologies that are posted in the &nbsp;
+              My field of Interest's are exploring and experimenting open source projects of&nbsp;
            
                 <b className="purple">
                   Cloud Native Computing Foundation (CNCF).{' '}
@@ -32,18 +32,17 @@ function Home2() {
              
               <br />
               <br />
-              {/* Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
+              Nowadays, I'm heavily invested in learning  
+              with <b className="purple">Cloud Computing</b> and
                 <b className="purple">
                   {' '}
-                  Modern Javascript Library and Frameworks
+              Spring Framework.
                 </b>
-              </i>
-              &nbsp; like
+       
+              &nbsp; 
               <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i> */}
+                <b className="purple"></b>
+              </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
